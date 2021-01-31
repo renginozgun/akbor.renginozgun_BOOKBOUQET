@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Bouqet</string>
+    <string name="enter_title">Enter Book Title</string>
+    <string name="enter_author">Enter Authors Name</string>
+
+    <string name="enter_page">Enter Page Number</string>
+    <string name="enter_read">I read the book</string>
+    <string name="add_button">Add</string>
+    <string name="save_button">Add</string>
+
+</resources>
